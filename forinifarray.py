@@ -5,7 +5,7 @@ array=[]
 for i in range(0,101,2):
     array.append(i)
 print(array[::-2])
-arraynew=[x for x in array1 if x in array2]#列表推导 简单实用 上传测试
+arraynew=[x for x in array1 if x in array2]#列表推导 简单实用
 print(arraynew)
 arraysort=[9,7,1,2,5,3]
 #冒泡排序
