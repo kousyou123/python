@@ -1,0 +1,15 @@
+06/22/18  11:03:52 DEBUG debug message
+06/22/18  11:03:52 INFO info message
+06/22/18  11:03:52 WARNING warning message
+06/22/18  11:03:52 ERROR error message
+06/22/18  11:03:52 CRITICAL critical message
+06/22/18  11:05:30 DEBUG debug message
+06/22/18  11:05:30 INFO info message
+06/22/18  11:05:30 WARNING warning message
+06/22/18  11:05:30 ERROR error message
+06/22/18  11:05:30 CRITICAL critical message
+2018-06-22 11:08:01,005 DEBUG debug message
+2018-06-22 11:08:01,006 INFO info message
+2018-06-22 11:08:01,006 WARNING warning message
+2018-06-22 11:08:01,006 ERROR error message
+2018-06-22 11:08:01,006 CRITICAL critical message
